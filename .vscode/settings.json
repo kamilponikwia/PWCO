@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/1941dbaf-b7b1-4cb0-93c3-8b480212a205/resourceGroups/pwco-app-rg/providers/Microsoft.Web/sites/pwco-app",
+    "appService.deploySubpath": "."
+}
