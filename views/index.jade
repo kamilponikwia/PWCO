@@ -28,15 +28,18 @@ block content
                  input(type="checkbox", name="#{task.id}", value="#{!task.completed}", checked=task.completed)
                 else
                  input(type="checkbox", name="#{task.id}", value="#{!task.completed}", checked=task.completed)
-       button.btn.btn-primary(type="submit") Update tasks
+       button.btn.btn-primary(type="submit" style='width: 406px') Update tasks
      hr
      form.well(action="/addtask", method="post")
        label Item Name: 
        span &nbsp;
        input(name="name", type="textbox")
        span &nbsp;
+       br
+       br
        label Item Category:
        span &nbsp;
        input(name="category", type="textbox")
        br
-       button.btn.btn-success(type="submit") Add item
+       br
+       button.btn.btn-success(type="submit" style='width: 368px') Add item
