@@ -8,4 +8,4 @@ tradycyjnej, papierowej listy rzeczy do zrobienia z wykorzystaniem technologii p
 Projekt został stworzony przy użyciu:
 * NodeJS 
 * ExpressJS 
-* Jade
+* Pug
