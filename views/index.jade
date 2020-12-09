@@ -31,9 +31,12 @@ block content
        button.btn.btn-primary(type="submit") Update tasks
      hr
      form.well(action="/addtask", method="post")
-       label Item Name:
+       label Item Name: 
+       span &nbsp;
        input(name="name", type="textbox")
+       span &nbsp;
        label Item Category:
+       span &nbsp;
        input(name="category", type="textbox")
        br
-       button.btn(type="submit") Add item
+       button.btn.btn-success(type="submit") Add item
