@@ -1,8 +1,4 @@
-## Table of contents
-* [Ogólne informacje](#general-info)
-* [Technologie](#technologies)
-
-## General info
+## Informacje ogólne
 Projekt zaliczeniowy – Aplikacja My ToDo List
 
 Celem projektu jest realizacja aplikacji do zarządzania listami zadań, która jest odpowiednikiem
@@ -13,7 +9,7 @@ Operacje wykonywane po stronie serwera będą oparte na Node.js i Express.js, na
 wykonywane po stronie klienta zostaną zrealizowane przy użyciu jQuery, Fetch API, oraz Bootstrap.
 Do zarządzania bazą danych posłużę się MongoDB.
 	
-## Technologies
+## Technologie
 Projekt został stworzony przy użyciu:
 * NodeJS 
 * ExpressJS 
